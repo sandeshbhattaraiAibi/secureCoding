@@ -1,0 +1,2 @@
+11:21:59 [INFO] Delete requested: backup_folder/test.txt
+11:21:59 [ERROR] Operation failed: No such file or directory (os error 2)
